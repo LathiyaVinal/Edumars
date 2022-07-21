@@ -6,7 +6,7 @@
 
   EduMars is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS.
 
-  <a href="https://soft-sopapillas-cc1435.netlify.app"><strong>➥ Live Demo</strong></a>
+  <a href="https://edumarsuni.netlify.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -29,7 +29,7 @@ To run **EduMars** locally, run this command on your git bash:
 Windows:
 
 ```bash
-git clone https://github.com/LathiyaVinal/Education_website_html_css.git
+git clone https://github.com/LathiyaVinal/HTML-CSS-Project---HTML-CSS-Mini-Project---7cjnjtjt2v1c.git
 ```
 
 ### Contact
